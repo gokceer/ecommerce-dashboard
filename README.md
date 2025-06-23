@@ -1,6 +1,3 @@
-Demo Link:
-https://ecommerce-dashboard-zwg2.onrender.com
-
 # E-commerce Dashboard
 
 A mock e-commerce dashboard project designed for practice, featuring a responsive UI, error handling, and full CRUD functionality (add, update, delete products), along with a built API.
